@@ -1,8 +1,8 @@
-package main
+package _go
 
 import (
 	"reflect"
-	s "tdd/stocks"
+	s "tdd/go/stocks"
 	"testing"
 )
 
